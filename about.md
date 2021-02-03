@@ -5,6 +5,14 @@ permalink: /about/
 published: true
 ---
 
+## 2021
+
+* Started working at [Farewill](https://farewill.com) as a software engineer. The midst of a global pandemic seemed like a good time to pivot from the travel industry to the death industry.
+* Went back to the US to visit family for a couple of weeks in the summer.
+* Got [way too into pottery](https://krtierney.art), signing up for a membership at my local studio and taking some classes
+* Took driving lessons. Passed my driving test on the first go with flying colours. Officially a licensed driver, again.
+* Received British citizenship 🇬🇧
+
 ## 2020
 
 * Took the completely ridiculous Life in the UK exam; successfully obtained Indefinite Leave to Remain.
