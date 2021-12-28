@@ -11,7 +11,9 @@ published: true
 * Went back to the US to visit family for a couple of weeks in the summer.
 * Got [way too into pottery](https://krtierney.art), signing up for a membership at my local studio and taking some classes
 * Took driving lessons. Passed my driving test on the first go with flying colours. Officially a licensed driver, again.
-* Received British citizenship 🇬🇧
+* Received British citizenship 🇬🇧 and subsequently, a UK passport
+* Mostly divested myself of Instagram. I still miss it, and haven't really figured out how to keep in touch with my far-flung friends otherwise, but at least I'm not feeding my life directly into Meta's malevolent servers.
+* Reached the staff engineer level for the first time, which is a nice career milestone for me.
 
 ## 2020
 
