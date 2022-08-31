@@ -6,14 +6,14 @@
     <div class="contact">
       <ul class="contact">
         <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        <li>{% include icon-github.html username=site.github_username %}</li>
         <li>{% include icon-linkedin.html username=site.linkedin_username %}</li>
         <li>{% include icon-twitter.html username=site.twitter_username %}</li>
-        <li>{% include icon-instagram.html username=site.instagram_username %}</li>
+        <li>{% include icon-github.html username=site.github_username %}</li>
       </ul>
     </div>
 
       <ul class="left-sidebar">
+      <li><a href="https://krtierney.art/">Ceramics</a></li>
       {% for page in site.pages %}
         {% if page.title %}
         <li><a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
