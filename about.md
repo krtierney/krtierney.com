@@ -5,6 +5,19 @@ permalink: /about/
 published: true
 ---
 
+## 2023
+* Visited Mexico City on a family holiday. Great coffee, amazing food, incredible arts and culture. Wish the air quality were better.
+* Visited Lanzarote on a friend holiday. Finally got back under the sea post-pregnancy on some nice shore dives. Saw a cuttlefish!
+* Somehow against all possible odds agreed to give a conference talk for StaffPlus London. Honestly, who could say no to the LeadDev folks when they come calling? I could not, so I did it, and people seemed to like it. 
+* Since I was putting together a conference talk anyway... went and gave it at Brighton Ruby. I keep going back there every year for good reason. Good eggs down in Brighton.
+
+## 2022
+* Staff Engineer on the Platform Engineering team at Farewill
+* Visited the Basque country. Adorable tiny horses, fabulous food, beautiful ocean views.
+* Bought a house. My god, that was a lot of paperwork. 
+* Had a baby, took a few months off work.
+* Mostly divested myself of Twitter. RIP. It was good while it lasted. This leaves LinkedIn as my only remaining social media presence which is frankly shocking and nauseating but there you have it.
+
 ## 2021
 
 * Started working at [Farewill](https://farewill.com) as a software engineer. The midst of a global pandemic seemed like a good time to pivot from the travel industry to the death industry.
