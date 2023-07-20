@@ -14,3 +14,4 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 exclude: [vendor]
+include: [_redirects]
