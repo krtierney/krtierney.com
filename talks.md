@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-permalink: /talks/staff-plus-2023
+permalink: /talks
 published: true
 ---
 
