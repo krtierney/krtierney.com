@@ -10,6 +10,9 @@ published: true
 * Visited Lanzarote on a friend holiday. Finally got back under the sea post-pregnancy on some nice shore dives. Saw a cuttlefish!
 * Somehow against all possible odds agreed to give a conference talk for StaffPlus London. Honestly, who could say no to the LeadDev folks when they come calling? I could not, so I did it, and people seemed to like it. 
 * Since I was putting together a conference talk anyway... went and gave it at Brighton Ruby. I keep going back there every year for good reason. Good eggs down in Brighton.
+* Took the Bernina mountain railway over the Alps, on a 10-day, 5-stop tour through Italy and Switzerland. Dipped my baby's toes in Lake Como.
+* Got made redundant, as my employer decided that platform engineering teams, and staff engineers, were not necessary to their business.
+* Started at Intercom as a Senior Product Engineer
 
 ## 2022
 * Staff Engineer on the Platform Engineering team at Farewill
