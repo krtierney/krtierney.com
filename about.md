@@ -5,14 +5,25 @@ permalink: /about/
 published: true
 ---
 
+## 2024
+* Worked so hard getting Intercom's engineering wiki off the ground, and fixing their iOS push notifications that had been broken for years, that I gave myself a work-induced repetitive stress injury.
+* Was let go in month 5 of the 6-month probation period, by my new manager (who was himself let go during his probation period shortly thereafter...). This stung a lot at the time, but it turns out I much prefer remote working to "hybrid" arragements, and while I loved some of the technical challenges working on a big product, I was ultimately not culturally aligned with the manifesto employees were required to sign.
+* Friend holiday in Santorini, with my mum along from California for evening babysitting duties. This worked very well, with beach + sight seeing by day, and long, leisurely baby-free meals late into the evening.
+* Started as a Lead Engineer at Bloom & Wild, working on the Checkout & Payments squad rewriting the Stripe payment integration. My photo library is suddenly even more full of flowers photos than baby photos, for the rest of the year and beyond.
+* Served on the review committee for StaffPlus London, which was a fun behind-the-curtains peek at putting together a conference.
+* Attended Brighton Ruby as a sponsor for the first time, with Bloom & Wild! Caught up with the Ruby friends.
+* Visited some tigers in India. Took my train-loving toddler on a week-long luxury rail journey through Maharashtra province. Ate my way through Mumbai, a vegetarian's paradise.
+* Celebrated a milestone birthday with family and close friends in York for a cosy and festive long weekend.
+
 ## 2023
 * Visited Mexico City on a family holiday. Great coffee, amazing food, incredible arts and culture. Wish the air quality were better.
 * Visited Lanzarote on a friend holiday. Finally got back under the sea post-pregnancy on some nice shore dives. Saw a cuttlefish!
 * Somehow against all possible odds agreed to give a conference talk for StaffPlus London. Honestly, who could say no to the LeadDev folks when they come calling? I could not, so I did it, and people seemed to like it. 
 * Since I was putting together a conference talk anyway... went and gave it at Brighton Ruby. I keep going back there every year for good reason. Good eggs down in Brighton.
 * Took the Bernina mountain railway over the Alps, on a 10-day, 5-stop tour through Italy and Switzerland. Dipped my baby's toes in Lake Como.
-* Got made redundant, as my employer decided that platform engineering teams, and staff engineers, were not necessary to their business.
-* Started at Intercom as a Senior Product Engineer
+* Got made redundant, as my employer decided that platform engineering teams, and staff engineers, were not necessary to their business. (You may have heard about their acquisition event in 2024 — they were right.)
+* Started at Intercom as a Senior Product Engineer. Nice to be back writing Ruby for my day job again.
+* Threw a 70th birthday party for my dad in San Diego
 
 ## 2022
 * Staff Engineer on the Platform Engineering team at Farewill
