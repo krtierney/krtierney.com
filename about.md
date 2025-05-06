@@ -4,6 +4,8 @@ title: Timeline
 permalink: /about/
 published: true
 ---
+## 2025
+* Flowers and playgrounds, mostly.
 
 ## 2024
 * Worked so hard getting Intercom's engineering wiki off the ground, and fixing their iOS push notifications that had been broken for years, that I gave myself a work-induced repetitive stress injury.
