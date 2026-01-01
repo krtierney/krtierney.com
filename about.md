@@ -6,6 +6,11 @@ published: true
 ---
 ## 2025
 * Flowers and playgrounds, mostly.
+* Another year, another great Brighton Ruby in the books (as a sponsor with Bloom & Wild, again). Lovely tradition.
+* Served on the programming committee for the inaugural LDX3. It continues to be a great group of people and an incredibly high-quality event, but is now big enough that I'll need to seriously up my strategic game for figuring out which sessions to go to, and how to bounce around and still manage to get a spot in the ones I want to see.
+* Spent three weeks sunning around Sicily and the Aeolian islands with the family. Visited a caper farm, some wineries, and ate my body weight in arancini/aracine.
+* Acted as a technical reviewer for Anemari Fiser's book for O'Reilly, _Leveling Up as a Tech Lead_. This was a great opportunity to slip into my old role as an editor, now with all of my software engineering and tech leadership perspective from more recent years. Great fun, great read.
+* Celebrated another birthday in York, with a different set of family members. Strange tradition for someone used to such sunny climes but it is an adorable and cosy little city with some great shops and restaurants.
 
 ## 2024
 * Worked so hard getting Intercom's engineering wiki off the ground, and fixing their iOS push notifications that had been broken for years, that I gave myself a work-induced repetitive stress injury.
