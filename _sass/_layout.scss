@@ -59,7 +59,7 @@
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
-    right: $spacing-unit / 2;
+    right: calc($spacing-unit / 2);
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
@@ -136,11 +136,12 @@
   @include media-query($on-laptop) {
     font-size: 36px;
   }
+
+  @include media-query($on-palm) {
+    font-size: 24px;
+  }
 }
 
-@include media-query($on-palm) {
-  font-size: 24px;
-}
 
 .post-content {
   margin-bottom: $spacing-unit;

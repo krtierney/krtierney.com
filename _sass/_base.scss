@@ -1,3 +1,5 @@
+@use "sass:color";
+
 /** Reset some basic elements **/
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
@@ -21,7 +23,7 @@ body {
 /** Set `margin-bottom` to maintain vertical rhythm **/
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: calc($spacing-unit / 2);
 }
 
 /** Images **/
@@ -60,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-weight: $base-font-weight * 2;
-  color: darken($grey-color, 10%);
+  color: color.adjust($grey-color, $lightness: -10%);
 }
 
 /** Links **/
@@ -69,7 +71,8 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($accent-color, 15%);
+    color: color.adjust($accent-color, $lightness: -15%);
+
   }
 
   &:hover {
@@ -82,7 +85,7 @@ a {
 blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
+  padding-left: calc($spacing-unit / 2);
   font-size: 18px;
   letter-spacing: -1px;
   font-style: italic;
@@ -129,8 +132,8 @@ pre {
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    padding-right: calc($spacing-unit / 2);
+    padding-left: calc($spacing-unit / 2);
   }
 }
 
