@@ -181,7 +181,7 @@ DEPENDENCIES
   rubocop
 
 RUBY VERSION
-  ruby 3.2.2
+  ruby 3.4.8
 
 BUNDLED WITH
   4.0.3
